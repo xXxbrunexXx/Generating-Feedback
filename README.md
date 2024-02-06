@@ -1,5 +1,5 @@
 # Generating-Feedback
-In this repository, you will find databases used in work titled "Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback". The first databases included are the following:
+In this repository, you will find databases used in work titled "Harnessing Graph Neural Networks to Craft Fragrances Based on Consumer Feedback". Below you will find a description of the included files:
 
 **Train GGNN**:
 This folder contains three files. To train the GGNN a large database containing several fragrant molecules was split into three sets: one for training, one for testing, and one for validation. The files include the SMILES representation of the molecules used.
