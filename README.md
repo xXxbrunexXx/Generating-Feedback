@@ -16,5 +16,5 @@ This database contains all the information extracted from the Parfumo forum. It 
 **Vapor Pressure KMeans**:
 This database contains substances and information on their vapor pressure and boiling points. It was used to define vapor pressure boundaries for the three fragrance note levels (top, middle, and base)
 
-**Vocab Mapping**:
+**Vocabulary Mapping**:
 Database containing the vocabulary that describes fragrance notes used in the training of the GGNN model (Scrapped from the Good Scents Company) and the equivalent words used in the Parfumo forum.
